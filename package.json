@@ -1,0 +1,11 @@
+{
+  "name": "webrpg",
+  "version": "1.0.0",
+  "description": "an attempt at making rpg for flexagon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamziniii",
+  "license": "ISC"
+}
